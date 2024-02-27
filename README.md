@@ -5,8 +5,8 @@
 Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
 
 ## 👋 Mentee Info
- Name    : Cindy Mar Shelinda
- Program : IBM Advance AI
+ • Name    : Cindy Mar Shelinda
+ • Program : IBM Advance AI
 
 ## :hammer_and_wrench: Tech Stack :
 <div>
