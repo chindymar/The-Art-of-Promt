@@ -1,8 +1,8 @@
 
-# Build a Chatbot to Analyze PDF Document Using LLM
+# The Art of Prompt Engineering
 #### Author : Cognitive Class AI
 
-Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
+Mentee assigment from IBM Advance AI @ Infinite Learning Course The Art of Prompt Engineering from CognitiveClass.ai
 
 ## 👋 Mentee Info
  • Name    : Cindy Mar Shelinda
